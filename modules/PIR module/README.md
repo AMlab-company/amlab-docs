@@ -4,7 +4,7 @@ The **PIR Motion Sensor Module** by **AMlab** is a high-sensitivity infrared mot
 
 Built around the premium industrial-grade **Panasonic EKMC1601113** Passive Infrared (PIR) sensor, this module delivers exceptional motion detection precision, low noise immunity, and reliable performance without false triggers.
 
-It connects to an **AMlab Main Control Module MIDI** or **Main Control Module MEGA** using a standard RJ45 Ethernet patch cable. An onboard status LED gives immediate visual diagnostic feedback when motion is detected.
+It connects to an **AMlab Main Control Module MIDI** or **Main Control Module MEGA** using a standard RJ45 Ethernet patch cable.
 
 ---
 
@@ -13,7 +13,6 @@ It connects to an **AMlab Main Control Module MIDI** or **Main Control Module ME
 * **Panasonic EKMC1601113 Sensor Core:** Premium, highly reliable PIR sensor with integrated digital driver circuit and superior digital noise rejection.
 * **Onboard Pulldown Resistor:** Includes a dedicated **51 kΩ pulldown resistor** on the output signal line (`Pin 2`) to guarantee clean, stable `LOW` logic levels during idle states and prevent floating signal states.
 * **Plug-and-Play RJ45 Connection:** Connects directly to AMlab Main Controller extension ports via standard CAT5/CAT6 patch cables.
-* **Status LED Indicator:** Provides immediate visual diagnostic feedback on motion detection without requiring software monitoring.
 
 ---
 
